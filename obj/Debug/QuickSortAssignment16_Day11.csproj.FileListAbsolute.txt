@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\bin\Debug\QuickSortAssignment16_Day11.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\bin\Debug\QuickSortAssignment16_Day11.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\bin\Debug\QuickSortAssignment16_Day11.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\obj\Debug\QuickSortAssignment16_Day11.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\obj\Debug\QuickSortAssignment16_Day11.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\obj\Debug\QuickSortAssignment16_Day11.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day11\QuickSortAssignment16_Day11\QuickSortAssignment16_Day11\obj\Debug\QuickSortAssignment16_Day11.pdb
